@@ -13,7 +13,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <Router>
-      <NavBar></NavBar>
+      <NavBar />
       <Switch>
         <Route exact path='/'>
           <Home />
