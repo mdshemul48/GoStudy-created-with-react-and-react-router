@@ -15,12 +15,17 @@ const HeroArea = () => {
             expert instructor
           </h1>
           <p className='hero-area-text'>
-            Start streaming on-demand video lectures today from top level
+            Start streaming on-demand video lectures today from top level <br />
             instructors Attention heatmaps.
           </p>
         </Col>
         <Col lg={6}>
-          <img className="hero-area-person-image" src={personImage} width='90%' alt='hero area person' />
+          <img
+            className='hero-area-person-image'
+            src={personImage}
+            width='90%'
+            alt='hero area person'
+          />
         </Col>
       </Row>
     </Container>
