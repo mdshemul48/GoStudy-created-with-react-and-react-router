@@ -1,0 +1,14 @@
+.hero-area-title {
+  color: #29303b;
+  font-weight: 700;
+  margin: 0;
+  font-size: 54px;
+  line-height: 65px;
+}
+.hero-area-text {
+  font-size: 18px;
+  color: #686f7a;
+  font-weight: 400;
+  padding: 25px 0 25px;
+  margin-bottom: 0;
+}

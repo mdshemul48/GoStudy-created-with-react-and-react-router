@@ -1,10 +1,12 @@
 import React from "react";
+import HeroArea from "./HeroArea";
 
+import "./Home.css";
 const Home = () => {
   return (
     <>
-      <header>
-        <h1>Home</h1>
+      <header className='hero-area'>
+        <HeroArea />
       </header>
     </>
   );
