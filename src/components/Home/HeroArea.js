@@ -20,7 +20,7 @@ const HeroArea = () => {
           </p>
         </Col>
         <Col lg={6}>
-          <img src={personImage} alt='hero area person' />
+          <img className="hero-area-person-image" src={personImage} width='90%' alt='hero area person' />
         </Col>
       </Row>
     </Container>

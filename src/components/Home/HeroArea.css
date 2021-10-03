@@ -1,7 +1,7 @@
 .hero-area-title {
   color: #29303b;
   font-weight: 700;
-  margin: 8rem 0 0 0;
+  margin: 10rem 0 0 0;
   font-size: 54px;
   line-height: 65px;
 }
@@ -11,4 +11,9 @@
   font-weight: 400;
   padding: 25px 0 25px;
   margin-bottom: 0;
+}
+
+.hero-area-person-image {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
 }
