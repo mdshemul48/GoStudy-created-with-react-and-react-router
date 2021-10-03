@@ -1,6 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
+import personImage from "../../assets/hero-area-image.png";
+
 import "./HeroArea.css";
 const HeroArea = () => {
   return (
@@ -17,7 +19,9 @@ const HeroArea = () => {
             instructors Attention heatmaps.
           </p>
         </Col>
-        <Col lg={6}>pp</Col>
+        <Col lg={6}>
+          <img src={personImage} alt='hero area person' />
+        </Col>
       </Row>
     </Container>
   );
