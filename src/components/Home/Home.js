@@ -1,6 +1,8 @@
 import React from "react";
 import HeroArea from "./HeroArea";
 
+import Products from "../Product/Products";
+
 import "./Home.css";
 const Home = () => {
   return (
@@ -8,6 +10,11 @@ const Home = () => {
       <header className='hero-area'>
         <HeroArea />
       </header>
+
+      <main>
+        <h1 className='text-center mt-5'>Choose From Our Top Courses</h1>
+        <Products limit={4} />
+      </main>
     </>
   );
 };
