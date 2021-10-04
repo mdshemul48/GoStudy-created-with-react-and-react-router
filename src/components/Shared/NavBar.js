@@ -23,11 +23,11 @@ const NavBar = () => {
               Home
             </NavLink>
             <NavLink
-              to='/products'
+              to='/service'
               activeClassName='active'
               className='nav-link fw-bold'
             >
-              Products
+              service
             </NavLink>
             <NavLink
               to='/contact'

@@ -1,7 +1,7 @@
 import React from "react";
 import HeroArea from "./HeroArea";
 
-import Products from "../Product/Products";
+import Products from "../Product/Services";
 import Partner from "./Partner";
 
 import "./Home.css";
