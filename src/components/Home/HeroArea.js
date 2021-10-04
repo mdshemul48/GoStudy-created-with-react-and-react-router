@@ -5,6 +5,7 @@ import personImage from "../../assets/hero-area-image.png";
 
 import "./HeroArea.css";
 const HeroArea = () => {
+  // this is home page main area for showing hero details
   return (
     <Container>
       <Row>

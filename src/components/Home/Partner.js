@@ -7,6 +7,7 @@ import Logo3 from "../../assets/Partner/logo-3.png";
 import Logo4 from "../../assets/Partner/logo-4.png";
 
 const Partner = () => {
+  // this is only partner area
   return (
     <section className='bg-light my-5 py-5  mx-auto text-center partner-area'>
       <h4 className='text-center mb-5'>

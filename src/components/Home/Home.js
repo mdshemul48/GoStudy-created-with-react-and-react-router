@@ -6,6 +6,7 @@ import Partner from "./Partner";
 
 import "./Home.css";
 const Home = () => {
+  // home page will be display here
   return (
     <>
       <header className='hero-area'>

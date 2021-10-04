@@ -2,6 +2,7 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 
 const useProducts = () => {
+  // this hook will fetch data from backend(fakeData)
   const [product, setProduct] = useState([]);
 
   useEffect(() => {

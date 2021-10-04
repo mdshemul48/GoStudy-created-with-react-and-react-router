@@ -5,9 +5,10 @@ import { FiBook } from "react-icons/fi";
 import { Card, Col } from "react-bootstrap";
 
 const Product = (props) => {
+  // this component will be used to display the product details
   const {
     authorName,
-  courseName,
+    courseName,
     totalModule,
     totalEnrolled,
     price,

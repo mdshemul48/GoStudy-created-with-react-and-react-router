@@ -5,6 +5,8 @@ import useProduct from "../../Hooks/useProducts";
 import Product from "./Product";
 
 const Products = (props) => {
+  // website all products will be displayed from here
+  // like in home page and product page
   const { limit } = props;
 
   const [products] = useProduct();
