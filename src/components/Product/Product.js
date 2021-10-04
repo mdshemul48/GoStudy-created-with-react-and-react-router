@@ -7,7 +7,7 @@ import { Card, Col } from "react-bootstrap";
 const Product = (props) => {
   const {
     authorName,
-    courseName,
+  courseName,
     totalModule,
     totalEnrolled,
     price,

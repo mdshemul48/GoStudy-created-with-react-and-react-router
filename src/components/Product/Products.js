@@ -9,7 +9,6 @@ const Products = (props) => {
 
   const [products] = useProduct();
 
-  console.log(products);
   return (
     <Container className='mt-5'>
       <Row xs={2} md={4} lg={4} className='g-2'>
