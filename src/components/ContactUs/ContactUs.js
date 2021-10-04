@@ -28,7 +28,7 @@ const ContactUs = () => {
 
             <Form.Group className='mb-3' controlId='formGridAddress1'>
               <Form.Label>Email</Form.Label>
-              <Form.Control type='email' placeholder='something@some.com' />
+              <Form.Control type='email' placeholder='someone@mail.com' />
             </Form.Group>
 
             <Form.Group className='mb-3' controlId='formGridAddress2'>
@@ -36,7 +36,7 @@ const ContactUs = () => {
               <FloatingLabel controlId='floatingTextarea2' label='Your Massage'>
                 <Form.Control
                   as='textarea'
-                  placeholder='Leave a comment here'
+                  placeholder='Leave a message here'
                   style={{ height: "100px" }}
                 />
               </FloatingLabel>
