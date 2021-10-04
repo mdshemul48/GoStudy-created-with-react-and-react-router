@@ -1,7 +1,8 @@
 [
   {
     "id": 1,
-    "authorName": "John Doe",
+    "authorName": "Md. A. Barik",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/42949928_dc26_13.jpg",
     "courseName": "LeetCode in Java: Algorithms Coding Interview Questions",
     "totalModule": 5,
     "totalEnrolled": 10,
@@ -12,16 +13,18 @@
   {
     "id": 2,
     "authorName": "Elshad Karimov",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/31517360_e260.jpg",
     "courseName": "The Complete Data Structures and Algorithms Course in Python",
     "totalModule": 10,
     "totalEnrolled": 20,
     "price": 200,
     "description": "Welcome to the Complete Data Structures and Algorithms in Python Bootcamp, the most modern, and the most complete Data Structures and Algorithms in Python course on the internet. This course is designed to teach you the fundamentals of Data Structures and Algorithms in Python, and to help you get started on your own projects.",
-    "poster": "https://static.leetcode-cn.com/cn-legacy-assets/images/LeetCode_Sharing.png"
+    "poster": "https://freecoursesites.com/wp-content/uploads/2021/05/The-Complete-Data-Structures-and-Algorithms-Course-in-Python-1.jpg"
   },
   {
     "id": 3,
     "authorName": "Inside Code",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/54224246_7cab_2.jpg",
     "courseName": "50 popular coding interview problems",
     "totalModule": 7,
     "totalEnrolled": 6,
@@ -32,6 +35,7 @@
   {
     "id": 4,
     "authorName": "Andrei Neagoie",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
     "courseName": "Master the Coding Interview: Data Structures + Algorithms",
     "totalModule": 10,
     "totalEnrolled": 20,
@@ -42,7 +46,8 @@
   {
     "id": 5,
     "authorName": "Jose Portilla",
-    "courseName": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+    "courseName": "2021 Complete Python Bootcamp From Zero to Hero",
     "totalModule": 87,
     "totalEnrolled": 121,
     "price": 500,
@@ -52,7 +57,8 @@
   {
     "id": 6,
     "authorName": "Hadelin de Ponteves",
-    "courseName": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "courseName": "Machine Learning A-Z™: Hands-On Python & R",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/22113450_6fb5_3.jpg",
     "totalModule": 45,
     "totalEnrolled": 500,
     "price": 600,
@@ -62,11 +68,23 @@
   {
     "id": 7,
     "authorName": "Jose Portilla",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
     "courseName": "Python for Data Science and Machine Learning Bootcamp",
     "totalModule": 55,
     "totalEnrolled": 34,
     "price": 444,
     "description": "Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems!",
     "poster": "https://cdn-media-1.freecodecamp.org/images/1*E8aXOussUt-BCJ8awVjgpg.jpeg"
+  },
+  {
+    "id": 8,
+    "authorName": "Ardit Sulce",
+    "authorPicture": "https://img-c.udemycdn.com/user/200_H/717783_3157_4.jpg",
+    "courseName": "The Python Mega Course: Build 10 Real World Applications",
+    "totalModule": 55,
+    "totalEnrolled": 34,
+    "price": 344,
+    "description": "The Python Mega Course is the most practical course you will find on the web today. In this course, rather than practicing rote memorization, students are actively problem-solving towards tangible goals. You will learn to build real-life desktop programs with graphical user interfaces,  automate routine tasks, control the computer webcam, develop interactive web applications using Flask and Django, scrape and visualize data, and more. You will become a programmer able to produce real-life Python programs and even create professional .exe or .app executables so that everyone can install and use your programs. There will be ten real-world Python applications that you will learn how to build.",
+    "poster": "https://1.bp.blogspot.com/-qZg8-Bcy_AM/XrhmW_ml-WI/AAAAAAAALDk/DeBWkhLqiSsBOTuGB1skG-fLDxVIyTqAQCLcBGAsYHQ/s1600/The%2BPython%2BMega%2BCourse-%2BBuild%2B10%2BReal%2BWorld%2BApplications.jpg"
   }
 ]
