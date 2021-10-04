@@ -1,12 +1,5 @@
 import React from "react";
-import {
-  Container,
-  Form,
-  Row,
-  Col,
-  FloatingLabel,
-  Button,
-} from "react-bootstrap";
+import { Form, Row, Col, FloatingLabel, Button } from "react-bootstrap";
 
 import ContactImage from "../../assets/contact-us.svg";
 
