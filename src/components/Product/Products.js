@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-import useProduct from "../../Hooks/useProduct";
+import useProduct from "../../Hooks/useProducts";
 
 import Product from "./Product";
 

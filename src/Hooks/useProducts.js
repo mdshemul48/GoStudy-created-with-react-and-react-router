@@ -1,7 +1,7 @@
 import axios from "axios";
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
-const useProduct = () => {
+const useProducts = () => {
   const [product, setProduct] = useState([]);
 
   useEffect(() => {
@@ -19,4 +19,4 @@ const useProduct = () => {
   return [product];
 };
 
-export default useProduct;
+export default useProducts;
