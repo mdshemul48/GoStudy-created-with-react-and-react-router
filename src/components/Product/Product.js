@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 import { BsFillPersonFill } from "react-icons/bs";
 import { FiBook } from "react-icons/fi";
