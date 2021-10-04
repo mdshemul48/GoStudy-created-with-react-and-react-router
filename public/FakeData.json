@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "authorName": "John Doe",
+    "courseName": "LeetCode in Java: Algorithms Coding Interview Questions",
+    "totalModule": 5,
+    "totalEnrolled": 10,
+    "price": 100,
+    "description": "In this course, you'll have a detailed, step by step explanation of classical hand-picked LeetCode Problems where you'll learn about the optimum ways to solve technical coding interview question. This is the course I wish I had when I was preparing myself for the interviews. This course comes with a 30-day money-back guarantee. So nothing to lose!",
+    "poster": "https://static.leetcode-cn.com/cn-legacy-assets/images/LeetCode_Sharing.png"
+  },
+  {
+    "id": 2,
+    "authorName": "Elshad Karimov",
+    "courseName": "The Complete Data Structures and Algorithms Course in Python",
+    "totalModule": 10,
+    "totalEnrolled": 20,
+    "price": 200,
+    "description": "Welcome to the Complete Data Structures and Algorithms in Python Bootcamp, the most modern, and the most complete Data Structures and Algorithms in Python course on the internet. This course is designed to teach you the fundamentals of Data Structures and Algorithms in Python, and to help you get started on your own projects.",
+    "poster": "https://static.leetcode-cn.com/cn-legacy-assets/images/LeetCode_Sharing.png"
+  },
+  {
+    "id": 3,
+    "authorName": "Inside Code",
+    "courseName": "50 popular coding interview problems",
+    "totalModule": 7,
+    "totalEnrolled": 6,
+    "price": 300,
+    "description": "Preparing for coding interviews? Competitive programming? Then this course will help you for sure: 50 well-chosen problems to increase your problem-solving skills!\n    Many algorithms concepts covered: dynamic programming, divide and conquer, memoization, backtracking...\n    And many data structures used: arrays, hashmaps, sets, trees, stacks...\n    And also, time and space complexity analysis is provided for every problem!",
+    "poster": "https://coursemarks.com/wp-content/uploads/2020/11/3411244_e01c_2.jpg"
+  },
+  {
+    "id": 4,
+    "authorName": "Andrei Neagoie",
+    "courseName": "Master the Coding Interview: Data Structures + Algorithms",
+    "totalModule": 10,
+    "totalEnrolled": 20,
+    "price": 400,
+    "description": "Want to land a job at a great tech company like Google, Microsoft, Facebook, Netflix, Amazon, or other companies but you are intimidated by the interview process and the coding questions? Do you find yourself feeling like you get \"stuck\" every time you get asked a coding question? This course is your answer. Using the strategies, lessons, and exercises in this course, you will learn how to land offers from all sorts of companies.",
+    "poster": "https://couponos.me/wp-content/uploads/Master-the-Coding-Interview-Data-Structures-Algorithms.jpg"
+  },
+  {
+    "id": 5,
+    "authorName": "Jose Portilla",
+    "courseName": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+    "totalModule": 87,
+    "totalEnrolled": 121,
+    "price": 500,
+    "description": "This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.",
+    "poster": "https://couponos.me/wp-content/uploads/2021-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python.jpg"
+  },
+  {
+    "id": 6,
+    "authorName": "Hadelin de Ponteves",
+    "courseName": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "totalModule": 45,
+    "totalEnrolled": 500,
+    "price": 600,
+    "description": "Interested in the field of Machine Learning? Then this course is for you! This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science.",
+    "poster": "https://1.bp.blogspot.com/-Lgl4flwEc1k/XnM-GUJPJ2I/AAAAAAAAALo/BmVVDI8BLuEhTzrGy8Cw0wz2RydH_HEdgCPcBGAYYCw/s1600/IMG_20200318_214527_250.jpg"
+  },
+  {
+    "id": 7,
+    "authorName": "Jose Portilla",
+    "courseName": "Python for Data Science and Machine Learning Bootcamp",
+    "totalModule": 55,
+    "totalEnrolled": 34,
+    "price": 444,
+    "description": "Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems!",
+    "poster": "https://cdn-media-1.freecodecamp.org/images/1*E8aXOussUt-BCJ8awVjgpg.jpeg"
+  }
+]
