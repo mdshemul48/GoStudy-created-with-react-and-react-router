@@ -4,13 +4,16 @@ import useProduct from "../../Hooks/useProducts";
 
 import Product from "./Product";
 
-const Products = () => {
+const Products = (props) => {
+  const { limit } = props;
+
   const [products] = useProduct();
+
   console.log(products);
   return (
     <Container className='mt-5'>
       <Row xs={2} md={4} lg={4} className='g-2'>
-        {products.map((product) => (
+        {products.slice(0, limit || products.length).map((product) => (
           <Product key={product.id} product={product} />
         ))}
       </Row>
