@@ -1,5 +1,8 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
+import { BsFillPersonFill } from "react-icons/bs";
+import { FiBook } from "react-icons/fi";
 import { Card, Col } from "react-bootstrap";
 
 const Product = () => {
@@ -31,9 +34,21 @@ const Product = () => {
           <hr className='w-80 mx-auto' />
 
           {/* icons area */}
-          <div className='w-80 mx-auto'>
-                
+          <div className='w-80 mx-auto d-flex justify-content-between'>
+            <div className='d-flex'>
+              <div className='d-flex align-items-center'>
+                <BsFillPersonFill className='text-danger' />
+                <span className='ms-1'>1</span>
+              </div>
+              <div className='d-flex align-items-center ms-2'>
+                <FiBook className='text-danger' />
+                <span className='ms-1'>10</span>
+              </div>
+            </div>
 
+            <div className='d-flex align-items-center'>
+              <span className='ms-1 fw-bolder'>$20</span>
+            </div>
           </div>
         </Card.Body>
       </Card>
